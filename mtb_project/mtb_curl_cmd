@@ -1,0 +1,5 @@
+curl 'https://www.mtbproject.com/trail/gpx/7002910' \
+  -H 'authority: www.mtbproject.com' \
+  -H 'referer: https://www.mtbproject.com/trail/7002910/forest-road-93' \
+  -H 'cookie: user=v%3D3%26id%3D201004791%26sec%3D%26t%3D1609447856%26md5%3D7c183bc008a0a3e99c9ad4c9b09afaae; ids=a%3A1%3A%7Bi%3A0%3Bi%3A201004791%3B%7D; photosTitle=Nearby+Photos; photoIds=%5B%5D; pageCount=482; XSRF-TOKEN=eyJpdiI6IktkRnR5M0gwRmZwUWdUVkViajJNV0E9PSIsInZhbHVlIjoiakh1eUtvYkFFSHpFRDlEbkN6bkhFc1NCc0hmcWplR2htZGpDUHpId1wvZDczMnhlN0QzWTdFbHM3NkNpbnF6VksiLCJtYWMiOiJmYzlhZmQ5YTBjMDczMWU5NmVjYTFlMmU5ODg1YmYwZjFlZjNhYTNkMDFmYWI2MmM4ODYzYjRlMTQwMzVlNjgyIn0%3D; laravel_session=eyJpdiI6IisrTE5BcmQ0eXVHT2ZnZytJdFdTOWc9PSIsInZhbHVlIjoiSHV1THAyTWJKMmlpTzljVlUzcmVtTmJNT2RZV1JZeFdPcUQ0WjBINEg4bklOMmhzRFlKODhvSG9sdUhsSVFrSSIsIm1hYyI6ImQzN2UxMDUzYzYxNWM3MzRjMmNjZTY0OGI5YWZjYmUwOGUxN2ZjOTM0YzY2NWQyNGY1YzBiYzNiMjlhZjdjNjIifQ%3D%3D; prefs=%5BcommentSort%7Coldest%5D%5BmapX%7C-8738335%5D%5BmapY%7C4731387%5D%5BmapZoom%7C11.9%5D' \
+  --compressed
